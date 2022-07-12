@@ -4,7 +4,8 @@ Signema adalah aplikasi jadwal film di bioskop di android.
 Aplikasi Signema dibuat sebagai submission hasil belajar course Dicoding Belajar Membuat Aplikasi Flutter untuk Pemula
 
 Screenshot aplikasi :
-![screenshot](screenshot.gif)
+
+![screenshot](screenshot/screenshot.gif)
 
 ## Getting Started
 
